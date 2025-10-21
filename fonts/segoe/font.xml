@@ -1,0 +1,999 @@
+<?xml version="1.0" ?>
+<font name="segoe" width="64" language="latin">
+  <character uvIndex="0" character="!" byte="33" type="special">
+    <regular x="4" y="0" width="28"/>
+    <bold x="4" y="0" width="28"/>
+    <italic x="27" y="0" width="34"/>
+    <boldItalic x="25" y="0" width="38"/>
+  </character>
+  <character uvIndex="1" character="&quot;" byte="34" type="special">
+    <regular x="40" y="0" width="34"/>
+    <bold x="44" y="0" width="34"/>
+    <italic x="162" y="0" width="34"/>
+    <boldItalic x="159" y="0" width="39"/>
+  </character>
+  <character uvIndex="2" character="#" byte="35" type="special">
+    <regular x="82" y="0" width="68"/>
+    <bold x="90" y="0" width="68"/>
+    <italic x="263" y="0" width="71"/>
+    <boldItalic x="261" y="0" width="75"/>
+  </character>
+  <character uvIndex="3" character="$" byte="36" type="special">
+    <regular x="158" y="0" width="47"/>
+    <bold x="170" y="0" width="47"/>
+    <italic x="397" y="0" width="56"/>
+    <boldItalic x="395" y="0" width="60"/>
+  </character>
+  <character uvIndex="4" character="%" byte="37" type="special">
+    <regular x="213" y="0" width="62"/>
+    <bold x="229" y="0" width="62"/>
+    <italic x="531" y="0" width="49"/>
+    <boldItalic x="529" y="0" width="53"/>
+  </character>
+  <character uvIndex="5" character="&amp;" byte="38" type="special">
+    <regular x="283" y="0" width="79"/>
+    <bold x="303" y="0" width="79"/>
+    <italic x="644" y="0" width="76"/>
+    <boldItalic x="642" y="0" width="80"/>
+  </character>
+  <character uvIndex="6" character="'" byte="39" type="special">
+    <regular x="370" y="0" width="20"/>
+    <bold x="394" y="0" width="20"/>
+    <italic x="808" y="0" width="19"/>
+    <boldItalic x="806" y="0" width="23"/>
+  </character>
+  <character uvIndex="7" character="(" byte="40" type="special">
+    <regular x="398" y="0" width="34"/>
+    <bold x="426" y="0" width="34"/>
+    <italic x="918" y="0" width="48"/>
+    <boldItalic x="916" y="0" width="52"/>
+  </character>
+  <character uvIndex="8" character=")" byte="41" type="special">
+    <regular x="440" y="0" width="31"/>
+    <bold x="472" y="0" width="31"/>
+    <italic x="1042" y="0" width="35"/>
+    <boldItalic x="1040" y="0" width="40"/>
+  </character>
+  <character uvIndex="9" character="*" byte="42" type="special">
+    <regular x="479" y="0" width="44"/>
+    <bold x="515" y="0" width="44"/>
+    <italic x="1178" y="0" width="44"/>
+    <boldItalic x="1176" y="0" width="48"/>
+  </character>
+  <character uvIndex="10" character="+" byte="43" type="special">
+    <regular x="531" y="0" width="49"/>
+    <bold x="571" y="0" width="49"/>
+    <italic x="1300" y="0" width="42"/>
+    <boldItalic x="1298" y="0" width="46"/>
+  </character>
+  <character uvIndex="11" character="," byte="44" type="special">
+    <regular x="588" y="0" width="29"/>
+    <bold x="632" y="0" width="29"/>
+    <italic x="1431" y="0" width="24"/>
+    <boldItalic x="1428" y="0" width="30"/>
+  </character>
+  <character uvIndex="12" character="-" byte="45" type="special">
+    <regular x="625" y="0" width="55"/>
+    <bold x="673" y="0" width="55"/>
+    <italic x="1564" y="0" width="38"/>
+    <boldItalic x="1562" y="0" width="42"/>
+  </character>
+  <character uvIndex="13" character="." byte="46" type="special">
+    <regular x="688" y="0" width="21"/>
+    <bold x="740" y="0" width="21"/>
+    <italic x="1693" y="0" width="13"/>
+    <boldItalic x="1691" y="0" width="17"/>
+  </character>
+  <character uvIndex="14" character="/" byte="47" type="special">
+    <regular x="717" y="0" width="50"/>
+    <bold x="773" y="0" width="50"/>
+    <italic x="1800" y="0" width="68"/>
+    <boldItalic x="1797" y="0" width="73"/>
+  </character>
+  <character uvIndex="15" character="0" byte="48" type="numerical">
+    <regular x="775" y="0" width="62"/>
+    <bold x="835" y="0" width="62"/>
+    <italic x="1927" y="0" width="69"/>
+    <boldItalic x="1925" y="0" width="73"/>
+  </character>
+  <character uvIndex="16" character="1" byte="49" type="numerical">
+    <regular x="845" y="0" width="62"/>
+    <bold x="909" y="0" width="62"/>
+    <italic x="2058" y="0" width="55"/>
+    <boldItalic x="2056" y="0" width="60"/>
+  </character>
+  <character uvIndex="17" character="2" byte="50" type="numerical">
+    <regular x="915" y="0" width="62"/>
+    <bold x="983" y="0" width="62"/>
+    <italic x="2179" y="0" width="63"/>
+    <boldItalic x="2177" y="0" width="67"/>
+  </character>
+  <character uvIndex="18" character="3" byte="51" type="numerical">
+    <regular x="985" y="0" width="62"/>
+    <bold x="1057" y="0" width="62"/>
+    <italic x="2314" y="0" width="60"/>
+    <boldItalic x="2312" y="0" width="64"/>
+  </character>
+  <character uvIndex="19" character="4" byte="52" type="numerical">
+    <regular x="1055" y="0" width="62"/>
+    <bold x="1131" y="0" width="62"/>
+    <italic x="2443" y="0" width="59"/>
+    <boldItalic x="2441" y="0" width="63"/>
+  </character>
+  <character uvIndex="20" character="5" byte="53" type="numerical">
+    <regular x="1125" y="0" width="66"/>
+    <bold x="1205" y="0" width="66"/>
+    <italic x="2570" y="0" width="75"/>
+    <boldItalic x="2568" y="0" width="79"/>
+  </character>
+  <character uvIndex="21" character="6" byte="54" type="numerical">
+    <regular x="1199" y="0" width="62"/>
+    <bold x="1283" y="0" width="62"/>
+    <italic x="2701" y="0" width="54"/>
+    <boldItalic x="2699" y="0" width="59"/>
+  </character>
+  <character uvIndex="22" character="7" byte="55" type="numerical">
+    <regular x="1269" y="0" width="62"/>
+    <bold x="1357" y="0" width="62"/>
+    <italic x="2845" y="0" width="50"/>
+    <boldItalic x="2842" y="0" width="56"/>
+  </character>
+  <character uvIndex="23" character="8" byte="56" type="numerical">
+    <regular x="1339" y="0" width="62"/>
+    <bold x="1431" y="0" width="62"/>
+    <italic x="2961" y="0" width="52"/>
+    <boldItalic x="2959" y="0" width="56"/>
+  </character>
+  <character uvIndex="24" character="9" byte="57" type="numerical">
+    <regular x="1409" y="0" width="62"/>
+    <bold x="1505" y="0" width="62"/>
+    <italic x="3095" y="0" width="49"/>
+    <boldItalic x="3093" y="0" width="53"/>
+  </character>
+  <character uvIndex="25" character=":" byte="58" type="special">
+    <regular x="1479" y="0" width="25"/>
+    <bold x="1579" y="0" width="25"/>
+    <italic x="3230" y="0" width="23"/>
+    <boldItalic x="3228" y="0" width="27"/>
+  </character>
+  <character uvIndex="26" character=";" byte="59" type="special">
+    <regular x="1512" y="0" width="28"/>
+    <bold x="1616" y="0" width="28"/>
+    <italic x="3346" y="0" width="35"/>
+    <boldItalic x="3344" y="0" width="39"/>
+  </character>
+  <character uvIndex="27" character="&lt;" byte="60" type="special">
+    <regular x="1548" y="0" width="46"/>
+    <bold x="1656" y="0" width="46"/>
+    <italic x="3479" y="0" width="43"/>
+    <boldItalic x="3477" y="0" width="47"/>
+  </character>
+  <character uvIndex="28" character="=" byte="61" type="special">
+    <regular x="1602" y="0" width="53"/>
+    <bold x="1714" y="0" width="53"/>
+    <italic x="3604" y="0" width="46"/>
+    <boldItalic x="3602" y="0" width="50"/>
+  </character>
+  <character uvIndex="29" character="&gt;" byte="62" type="special">
+    <regular x="1663" y="0" width="49"/>
+    <bold x="1779" y="0" width="49"/>
+    <italic x="3735" y="0" width="40"/>
+    <boldItalic x="3733" y="0" width="44"/>
+  </character>
+  <character uvIndex="30" character="?" byte="63" type="special">
+    <regular x="1720" y="0" width="44"/>
+    <bold x="1840" y="0" width="44"/>
+    <italic x="3859" y="0" width="54"/>
+    <boldItalic x="3857" y="0" width="58"/>
+  </character>
+  <character uvIndex="31" character="@" byte="64" type="special">
+    <regular x="1772" y="0" width="70"/>
+    <bold x="1896" y="0" width="70"/>
+    <italic x="3976" y="0" width="69"/>
+    <boldItalic x="3974" y="0" width="74"/>
+  </character>
+  <character uvIndex="32" character="A" byte="65" type="alphabetical">
+    <regular x="1850" y="0" width="67"/>
+    <bold x="1978" y="0" width="67"/>
+    <italic x="4097" y="0" width="66"/>
+    <boldItalic x="4100" y="0" width="69"/>
+  </character>
+  <character uvIndex="33" character="B" byte="66" type="alphabetical">
+    <regular x="1925" y="0" width="62"/>
+    <bold x="2057" y="0" width="62"/>
+    <italic x="4235" y="0" width="66"/>
+    <boldItalic x="4233" y="0" width="70"/>
+  </character>
+  <character uvIndex="34" character="C" byte="67" type="alphabetical">
+    <regular x="1995" y="0" width="59"/>
+    <bold x="2131" y="0" width="59"/>
+    <italic x="4365" y="0" width="67"/>
+    <boldItalic x="4363" y="0" width="71"/>
+  </character>
+  <character uvIndex="35" character="D" byte="68" type="alphabetical">
+    <regular x="2062" y="0" width="68"/>
+    <bold x="2202" y="0" width="68"/>
+    <italic x="4487" y="0" width="71"/>
+    <boldItalic x="4485" y="0" width="75"/>
+  </character>
+  <character uvIndex="36" character="E" byte="69" type="alphabetical">
+    <regular x="2138" y="0" width="58"/>
+    <bold x="2282" y="0" width="58"/>
+    <italic x="4620" y="0" width="68"/>
+    <boldItalic x="4618" y="0" width="72"/>
+  </character>
+  <character uvIndex="37" character="F" byte="70" type="alphabetical">
+    <regular x="2204" y="0" width="54"/>
+    <bold x="2352" y="0" width="54"/>
+    <italic x="4753" y="0" width="64"/>
+    <boldItalic x="4750" y="0" width="70"/>
+  </character>
+  <character uvIndex="38" character="G" byte="71" type="alphabetical">
+    <regular x="2266" y="0" width="66"/>
+    <bold x="2418" y="0" width="66"/>
+    <italic x="4874" y="0" width="72"/>
+    <boldItalic x="4872" y="0" width="76"/>
+  </character>
+  <character uvIndex="39" character="H" byte="72" type="alphabetical">
+    <regular x="2340" y="0" width="68"/>
+    <bold x="2496" y="0" width="68"/>
+    <italic x="4999" y="0" width="77"/>
+    <boldItalic x="4997" y="0" width="81"/>
+  </character>
+  <character uvIndex="40" character="I" byte="73" type="alphabetical">
+    <regular x="2416" y="0" width="27"/>
+    <bold x="2576" y="0" width="27"/>
+    <italic x="5149" y="0" width="32"/>
+    <boldItalic x="5147" y="0" width="36"/>
+  </character>
+  <character uvIndex="41" character="J" byte="74" type="alphabetical">
+    <regular x="2451" y="0" width="52"/>
+    <bold x="2615" y="0" width="52"/>
+    <italic x="5259" y="0" width="62"/>
+    <boldItalic x="5257" y="0" width="66"/>
+  </character>
+  <character uvIndex="42" character="K" byte="75" type="alphabetical">
+    <regular x="2511" y="0" width="63"/>
+    <bold x="2679" y="0" width="63"/>
+    <italic x="5384" y="0" width="64"/>
+    <boldItalic x="5382" y="0" width="68"/>
+  </character>
+  <character uvIndex="43" character="L" byte="76" type="alphabetical">
+    <regular x="2582" y="0" width="54"/>
+    <bold x="2754" y="0" width="54"/>
+    <italic x="5518" y="0" width="50"/>
+    <boldItalic x="5516" y="0" width="54"/>
+  </character>
+  <character uvIndex="44" character="M" byte="77" type="alphabetical">
+    <regular x="2644" y="0" width="80"/>
+    <bold x="2820" y="0" width="80"/>
+    <italic x="5636" y="0" width="87"/>
+    <boldItalic x="5636" y="0" width="89"/>
+  </character>
+  <character uvIndex="45" character="N" byte="78" type="alphabetical">
+    <regular x="2732" y="0" width="69"/>
+    <bold x="2912" y="0" width="69"/>
+    <italic x="5765" y="0" width="77"/>
+    <boldItalic x="5763" y="0" width="82"/>
+  </character>
+  <character uvIndex="46" character="O" byte="79" type="alphabetical">
+    <regular x="2809" y="0" width="68"/>
+    <bold x="2993" y="0" width="68"/>
+    <italic x="5897" y="0" width="71"/>
+    <boldItalic x="5895" y="0" width="75"/>
+  </character>
+  <character uvIndex="47" character="P" byte="80" type="alphabetical">
+    <regular x="2885" y="0" width="60"/>
+    <bold x="3073" y="0" width="60"/>
+    <italic x="6029" y="0" width="67"/>
+    <boldItalic x="6027" y="0" width="71"/>
+  </character>
+  <character uvIndex="48" character="Q" byte="81" type="alphabetical">
+    <regular x="2953" y="0" width="69"/>
+    <bold x="3145" y="0" width="69"/>
+    <italic x="6152" y="0" width="67"/>
+    <boldItalic x="6150" y="0" width="71"/>
+  </character>
+  <character uvIndex="49" character="R" byte="82" type="alphabetical">
+    <regular x="3030" y="0" width="62"/>
+    <bold x="3226" y="0" width="62"/>
+    <italic x="6282" y="0" width="64"/>
+    <boldItalic x="6280" y="0" width="68"/>
+  </character>
+  <character uvIndex="50" character="S" byte="83" type="alphabetical">
+    <regular x="3100" y="0" width="54"/>
+    <bold x="3300" y="0" width="54"/>
+    <italic x="6411" y="0" width="65"/>
+    <boldItalic x="6409" y="0" width="69"/>
+  </character>
+  <character uvIndex="51" character="T" byte="84" type="alphabetical">
+    <regular x="3162" y="0" width="66"/>
+    <bold x="3366" y="0" width="66"/>
+    <italic x="6550" y="0" width="66"/>
+    <boldItalic x="6548" y="0" width="70"/>
+  </character>
+  <character uvIndex="52" character="U" byte="85" type="alphabetical">
+    <regular x="3236" y="0" width="66"/>
+    <bold x="3444" y="0" width="66"/>
+    <italic x="6670" y="0" width="68"/>
+    <boldItalic x="6668" y="0" width="72"/>
+  </character>
+  <character uvIndex="53" character="V" byte="86" type="alphabetical">
+    <regular x="3310" y="0" width="68"/>
+    <bold x="3522" y="0" width="68"/>
+    <italic x="6808" y="0" width="65"/>
+    <boldItalic x="6806" y="0" width="69"/>
+  </character>
+  <character uvIndex="54" character="W" byte="87" type="alphabetical">
+    <regular x="3386" y="0" width="86"/>
+    <bold x="3602" y="0" width="86"/>
+    <italic x="6920" y="0" width="88"/>
+    <boldItalic x="6918" y="0" width="92"/>
+  </character>
+  <character uvIndex="55" character="X" byte="88" type="alphabetical">
+    <regular x="3480" y="0" width="63"/>
+    <bold x="3700" y="0" width="63"/>
+    <italic x="7042" y="0" width="81"/>
+    <boldItalic x="7044" y="0" width="85"/>
+  </character>
+  <character uvIndex="56" character="Y" byte="89" type="alphabetical">
+    <regular x="3551" y="0" width="63"/>
+    <bold x="3775" y="0" width="63"/>
+    <italic x="7192" y="0" width="63"/>
+    <boldItalic x="7189" y="0" width="68"/>
+  </character>
+  <character uvIndex="57" character="Z" byte="90" type="alphabetical">
+    <regular x="3622" y="0" width="65"/>
+    <bold x="3850" y="0" width="65"/>
+    <italic x="7299" y="0" width="79"/>
+    <boldItalic x="7297" y="0" width="84"/>
+  </character>
+  <character uvIndex="58" character="[" byte="91" type="special">
+    <regular x="3695" y="0" width="35"/>
+    <bold x="3927" y="0" width="35"/>
+    <italic x="7443" y="0" width="52"/>
+    <boldItalic x="7441" y="0" width="56"/>
+  </character>
+  <character uvIndex="59" character="\" byte="92" type="special">
+    <regular x="3738" y="0" width="47"/>
+    <bold x="3974" y="0" width="47"/>
+    <italic x="7582" y="0" width="25"/>
+    <boldItalic x="7580" y="0" width="30"/>
+  </character>
+  <character uvIndex="60" character="]" byte="93" type="special">
+    <regular x="3793" y="0" width="37"/>
+    <bold x="4033" y="0" width="37"/>
+    <italic x="7690" y="0" width="59"/>
+    <boldItalic x="7688" y="0" width="63"/>
+  </character>
+  <character uvIndex="61" character="^" byte="94" type="special">
+    <regular x="3838" y="0" width="49"/>
+    <bold x="4082" y="0" width="49"/>
+    <italic x="7828" y="0" width="45"/>
+    <boldItalic x="7826" y="0" width="49"/>
+  </character>
+  <character uvIndex="62" character="_" byte="95" type="special">
+    <regular x="3895" y="0" width="41"/>
+    <bold x="4143" y="0" width="41"/>
+    <italic x="7947" y="0" width="42"/>
+    <boldItalic x="7945" y="0" width="46"/>
+  </character>
+  <character uvIndex="63" character="`" byte="96" type="special">
+    <regular x="3944" y="0" width="27"/>
+    <bold x="4196" y="0" width="27"/>
+    <italic x="8104" y="0" width="20"/>
+    <boldItalic x="8102" y="0" width="24"/>
+  </character>
+  <character uvIndex="64" character="a" byte="97" type="alphabetical">
+    <regular x="3979" y="0" width="50"/>
+    <bold x="4235" y="0" width="50"/>
+    <italic x="15" y="128" width="50"/>
+    <boldItalic x="13" y="128" width="54"/>
+  </character>
+  <character uvIndex="65" character="b" byte="98" type="alphabetical">
+    <regular x="4037" y="0" width="49"/>
+    <bold x="4297" y="0" width="49"/>
+    <italic x="146" y="128" width="50"/>
+    <boldItalic x="144" y="128" width="55"/>
+  </character>
+  <character uvIndex="66" character="c" byte="99" type="alphabetical">
+    <regular x="4094" y="0" width="43"/>
+    <bold x="4358" y="0" width="43"/>
+    <italic x="274" y="128" width="43"/>
+    <boldItalic x="272" y="128" width="47"/>
+  </character>
+  <character uvIndex="67" character="d" byte="100" type="alphabetical">
+    <regular x="4145" y="0" width="56"/>
+    <bold x="4413" y="0" width="56"/>
+    <italic x="396" y="128" width="68"/>
+    <boldItalic x="394" y="128" width="72"/>
+  </character>
+  <character uvIndex="68" character="e" byte="101" type="alphabetical">
+    <regular x="4209" y="0" width="44"/>
+    <bold x="4481" y="0" width="44"/>
+    <italic x="531" y="128" width="43"/>
+    <boldItalic x="529" y="128" width="47"/>
+  </character>
+  <character uvIndex="69" character="f" byte="102" type="alphabetical">
+    <regular x="4261" y="0" width="39"/>
+    <bold x="4537" y="0" width="39"/>
+    <italic x="664" y="128" width="53"/>
+    <boldItalic x="662" y="128" width="57"/>
+  </character>
+  <character uvIndex="70" character="g" byte="103" type="alphabetical">
+    <regular x="4308" y="0" width="54"/>
+    <bold x="4588" y="0" width="54"/>
+    <italic x="772" y="128" width="68"/>
+    <boldItalic x="772" y="128" width="70"/>
+  </character>
+  <character uvIndex="71" character="h" byte="104" type="alphabetical">
+    <regular x="4370" y="0" width="53"/>
+    <bold x="4654" y="0" width="53"/>
+    <italic x="907" y="128" width="51"/>
+    <boldItalic x="905" y="128" width="55"/>
+  </character>
+  <character uvIndex="72" character="i" byte="105" type="alphabetical">
+    <regular x="4431" y="0" width="27"/>
+    <bold x="4719" y="0" width="27"/>
+    <italic x="1052" y="128" width="41"/>
+    <boldItalic x="1050" y="128" width="45"/>
+  </character>
+  <character uvIndex="73" character="j" byte="106" type="alphabetical">
+    <regular x="4466" y="0" width="41"/>
+    <bold x="4758" y="0" width="41"/>
+    <italic x="1154" y="128" width="63"/>
+    <boldItalic x="1156" y="128" width="67"/>
+  </character>
+  <character uvIndex="74" character="k" byte="107" type="alphabetical">
+    <regular x="4515" y="0" width="50"/>
+    <bold x="4811" y="0" width="50"/>
+    <italic x="1294" y="128" width="55"/>
+    <boldItalic x="1292" y="128" width="60"/>
+  </character>
+  <character uvIndex="75" character="l" byte="108" type="alphabetical">
+    <regular x="4573" y="0" width="24"/>
+    <bold x="4873" y="0" width="24"/>
+    <italic x="1438" y="128" width="36"/>
+    <boldItalic x="1436" y="128" width="41"/>
+  </character>
+  <character uvIndex="76" character="m" byte="109" type="alphabetical">
+    <regular x="4605" y="0" width="87"/>
+    <bold x="4909" y="0" width="87"/>
+    <italic x="1540" y="128" width="79"/>
+    <boldItalic x="1540" y="128" width="81"/>
+  </character>
+  <character uvIndex="77" character="n" byte="110" type="alphabetical">
+    <regular x="4700" y="0" width="56"/>
+    <bold x="5008" y="0" width="56"/>
+    <italic x="1675" y="128" width="54"/>
+    <boldItalic x="1673" y="128" width="59"/>
+  </character>
+  <character uvIndex="78" character="o" byte="111" type="alphabetical">
+    <regular x="4764" y="0" width="48"/>
+    <bold x="5076" y="0" width="48"/>
+    <italic x="1809" y="128" width="47"/>
+    <boldItalic x="1807" y="128" width="51"/>
+  </character>
+  <character uvIndex="79" character="p" byte="112" type="alphabetical">
+    <regular x="4820" y="0" width="55"/>
+    <bold x="5136" y="0" width="55"/>
+    <italic x="1924" y="128" width="70"/>
+    <boldItalic x="1924" y="128" width="72"/>
+  </character>
+  <character uvIndex="80" character="q" byte="113" type="alphabetical">
+    <regular x="4883" y="0" width="49"/>
+    <bold x="5203" y="0" width="49"/>
+    <italic x="2063" y="128" width="52"/>
+    <boldItalic x="2061" y="128" width="56"/>
+  </character>
+  <character uvIndex="81" character="r" byte="114" type="alphabetical">
+    <regular x="4940" y="0" width="47"/>
+    <bold x="5264" y="0" width="47"/>
+    <italic x="2196" y="128" width="51"/>
+    <boldItalic x="2194" y="128" width="55"/>
+  </character>
+  <character uvIndex="82" character="s" byte="115" type="alphabetical">
+    <regular x="4995" y="0" width="36"/>
+    <bold x="5323" y="0" width="36"/>
+    <italic x="2322" y="128" width="46"/>
+    <boldItalic x="2319" y="128" width="51"/>
+  </character>
+  <character uvIndex="83" character="t" byte="116" type="alphabetical">
+    <regular x="5039" y="0" width="42"/>
+    <bold x="5371" y="0" width="42"/>
+    <italic x="2456" y="128" width="45"/>
+    <boldItalic x="2454" y="128" width="49"/>
+  </character>
+  <character uvIndex="84" character="u" byte="117" type="alphabetical">
+    <regular x="5089" y="0" width="52"/>
+    <bold x="5425" y="0" width="52"/>
+    <italic x="2576" y="128" width="49"/>
+    <boldItalic x="2574" y="128" width="53"/>
+  </character>
+  <character uvIndex="85" character="v" byte="118" type="alphabetical">
+    <regular x="5149" y="0" width="50"/>
+    <bold x="5489" y="0" width="50"/>
+    <italic x="2712" y="128" width="50"/>
+    <boldItalic x="2710" y="128" width="54"/>
+  </character>
+  <character uvIndex="86" character="w" byte="119" type="alphabetical">
+    <regular x="5207" y="0" width="75"/>
+    <bold x="5551" y="0" width="75"/>
+    <italic x="2826" y="128" width="75"/>
+    <boldItalic x="2824" y="128" width="79"/>
+  </character>
+  <character uvIndex="87" character="x" byte="120" type="alphabetical">
+    <regular x="5290" y="0" width="46"/>
+    <bold x="5638" y="0" width="46"/>
+    <italic x="2955" y="128" width="60"/>
+    <boldItalic x="2953" y="128" width="64"/>
+  </character>
+  <character uvIndex="88" character="y" byte="121" type="alphabetical">
+    <regular x="5344" y="0" width="50"/>
+    <bold x="5696" y="0" width="50"/>
+    <italic x="3077" y="128" width="62"/>
+    <boldItalic x="3075" y="128" width="67"/>
+  </character>
+  <character uvIndex="89" character="z" byte="122" type="alphabetical">
+    <regular x="5402" y="0" width="47"/>
+    <bold x="5758" y="0" width="47"/>
+    <italic x="3208" y="128" width="58"/>
+    <boldItalic x="3206" y="128" width="62"/>
+  </character>
+  <character uvIndex="90" character="{" byte="123" type="special">
+    <regular x="5457" y="0" width="37"/>
+    <bold x="5817" y="0" width="37"/>
+    <italic x="3350" y="128" width="48"/>
+    <boldItalic x="3348" y="128" width="52"/>
+  </character>
+  <character uvIndex="91" character="|" byte="124" type="special">
+    <regular x="5502" y="0" width="27"/>
+    <bold x="5866" y="0" width="27"/>
+    <italic x="3477" y="128" width="41"/>
+    <boldItalic x="3475" y="128" width="45"/>
+  </character>
+  <character uvIndex="92" character="}" byte="125" type="special">
+    <regular x="5537" y="0" width="34"/>
+    <bold x="5905" y="0" width="34"/>
+    <italic x="3601" y="128" width="43"/>
+    <boldItalic x="3598" y="128" width="48"/>
+  </character>
+  <character uvIndex="93" character="~" byte="126" type="special">
+    <regular x="5579" y="0" width="66"/>
+    <bold x="5951" y="0" width="66"/>
+    <italic x="3724" y="128" width="65"/>
+    <boldItalic x="3722" y="128" width="69"/>
+  </character>
+  <character uvIndex="94" character="¡" byte="161" type="special">
+    <regular x="5653" y="0" width="24"/>
+    <bold x="6029" y="0" width="24"/>
+    <italic x="3863" y="128" width="35"/>
+    <boldItalic x="3861" y="128" width="39"/>
+  </character>
+  <character uvIndex="95" character="£" byte="163" type="special">
+    <regular x="5685" y="0" width="57"/>
+    <bold x="6065" y="0" width="57"/>
+    <italic x="3976" y="128" width="58"/>
+    <boldItalic x="3974" y="128" width="62"/>
+  </character>
+  <character uvIndex="96" character="°" byte="176" type="special">
+    <regular x="5750" y="0" width="43"/>
+    <bold x="6134" y="0" width="43"/>
+    <italic x="4129" y="128" width="31"/>
+    <boldItalic x="4127" y="128" width="36"/>
+  </character>
+  <character uvIndex="97" character="±" byte="177" type="special">
+    <regular x="5801" y="0" width="49"/>
+    <bold x="6189" y="0" width="49"/>
+    <italic x="4237" y="128" width="51"/>
+    <boldItalic x="4235" y="128" width="55"/>
+  </character>
+  <character uvIndex="98" character="²" byte="178" type="numerical">
+    <regular x="5858" y="0" width="38"/>
+    <bold x="6250" y="0" width="38"/>
+    <italic x="4377" y="128" width="38"/>
+    <boldItalic x="4375" y="128" width="42"/>
+  </character>
+  <character uvIndex="99" character="³" byte="179" type="numerical">
+    <regular x="5904" y="0" width="33"/>
+    <bold x="6300" y="0" width="33"/>
+    <italic x="4508" y="128" width="37"/>
+    <boldItalic x="4505" y="128" width="43"/>
+  </character>
+  <character uvIndex="100" character="´" byte="180" type="special">
+    <regular x="5945" y="0" width="32"/>
+    <bold x="6345" y="0" width="32"/>
+    <italic x="4644" y="128" width="29"/>
+    <boldItalic x="4642" y="128" width="33"/>
+  </character>
+  <character uvIndex="101" character="¿" byte="191" type="special">
+    <regular x="5985" y="0" width="41"/>
+    <bold x="6389" y="0" width="41"/>
+    <italic x="4748" y="128" width="49"/>
+    <boldItalic x="4746" y="128" width="53"/>
+  </character>
+  <character uvIndex="102" character="À" byte="192" type="alphabetical">
+    <regular x="6034" y="0" width="67"/>
+    <bold x="6442" y="0" width="67"/>
+    <italic x="4865" y="128" width="67"/>
+    <boldItalic x="4868" y="128" width="70"/>
+  </character>
+  <character uvIndex="103" character="Á" byte="193" type="alphabetical">
+    <regular x="6109" y="0" width="67"/>
+    <bold x="6521" y="0" width="67"/>
+    <italic x="4993" y="128" width="84"/>
+    <boldItalic x="4996" y="128" width="87"/>
+  </character>
+  <character uvIndex="104" character="Â" byte="194" type="alphabetical">
+    <regular x="6184" y="0" width="67"/>
+    <bold x="6600" y="0" width="67"/>
+    <italic x="5121" y="128" width="76"/>
+    <boldItalic x="5124" y="128" width="79"/>
+  </character>
+  <character uvIndex="105" character="Ã" byte="195" type="alphabetical">
+    <regular x="6259" y="0" width="67"/>
+    <bold x="6679" y="0" width="67"/>
+    <italic x="5249" y="128" width="82"/>
+    <boldItalic x="5252" y="128" width="85"/>
+  </character>
+  <character uvIndex="106" character="Ä" byte="196" type="alphabetical">
+    <regular x="6334" y="0" width="67"/>
+    <bold x="6758" y="0" width="67"/>
+    <italic x="5377" y="128" width="74"/>
+    <boldItalic x="5380" y="128" width="77"/>
+  </character>
+  <character uvIndex="107" character="Å" byte="197" type="alphabetical">
+    <regular x="6409" y="0" width="67"/>
+    <bold x="6837" y="0" width="67"/>
+    <italic x="5505" y="128" width="70"/>
+    <boldItalic x="5508" y="128" width="73"/>
+  </character>
+  <character uvIndex="108" character="Æ" byte="198" type="alphabetical">
+    <regular x="6484" y="0" width="98"/>
+    <bold x="6916" y="0" width="98"/>
+    <italic x="5636" y="128" width="98"/>
+    <boldItalic x="5636" y="128" width="100"/>
+  </character>
+  <character uvIndex="109" character="Ç" byte="199" type="alphabetical">
+    <regular x="6590" y="0" width="59"/>
+    <bold x="7026" y="0" width="59"/>
+    <italic x="5764" y="128" width="76"/>
+    <boldItalic x="5762" y="128" width="80"/>
+  </character>
+  <character uvIndex="110" character="È" byte="200" type="alphabetical">
+    <regular x="6657" y="0" width="58"/>
+    <bold x="7097" y="0" width="58"/>
+    <italic x="5900" y="128" width="68"/>
+    <boldItalic x="5898" y="128" width="72"/>
+  </character>
+  <character uvIndex="111" character="É" byte="201" type="alphabetical">
+    <regular x="6723" y="0" width="58"/>
+    <bold x="7167" y="0" width="58"/>
+    <italic x="6028" y="128" width="74"/>
+    <boldItalic x="6026" y="128" width="78"/>
+  </character>
+  <character uvIndex="112" character="Ê" byte="202" type="alphabetical">
+    <regular x="6789" y="0" width="58"/>
+    <bold x="7237" y="0" width="58"/>
+    <italic x="6156" y="128" width="69"/>
+    <boldItalic x="6154" y="128" width="74"/>
+  </character>
+  <character uvIndex="113" character="Ë" byte="203" type="alphabetical">
+    <regular x="6855" y="0" width="58"/>
+    <bold x="7307" y="0" width="58"/>
+    <italic x="6284" y="128" width="68"/>
+    <boldItalic x="6282" y="128" width="72"/>
+  </character>
+  <character uvIndex="114" character="Ì" byte="204" type="alphabetical">
+    <regular x="6921" y="0" width="31"/>
+    <bold x="7377" y="0" width="31"/>
+    <italic x="6429" y="128" width="45"/>
+    <boldItalic x="6427" y="128" width="49"/>
+  </character>
+  <character uvIndex="115" character="Í" byte="205" type="alphabetical">
+    <regular x="6960" y="0" width="38"/>
+    <bold x="7420" y="0" width="38"/>
+    <italic x="6557" y="128" width="55"/>
+    <boldItalic x="6555" y="128" width="60"/>
+  </character>
+  <character uvIndex="116" character="Î" byte="206" type="alphabetical">
+    <regular x="7006" y="0" width="38"/>
+    <bold x="7470" y="0" width="38"/>
+    <italic x="6685" y="128" width="50"/>
+    <boldItalic x="6683" y="128" width="54"/>
+  </character>
+  <character uvIndex="117" character="Ï" byte="207" type="alphabetical">
+    <regular x="7052" y="0" width="34"/>
+    <bold x="7520" y="0" width="34"/>
+    <italic x="6813" y="128" width="49"/>
+    <boldItalic x="6811" y="128" width="53"/>
+  </character>
+  <character uvIndex="118" character="Ð" byte="208" type="alphabetical">
+    <regular x="7094" y="0" width="68"/>
+    <bold x="7566" y="0" width="68"/>
+    <italic x="6919" y="128" width="71"/>
+    <boldItalic x="6917" y="128" width="75"/>
+  </character>
+  <character uvIndex="119" character="Ñ" byte="209" type="alphabetical">
+    <regular x="7170" y="0" width="69"/>
+    <bold x="7646" y="0" width="69"/>
+    <italic x="7045" y="128" width="80"/>
+    <boldItalic x="7043" y="128" width="84"/>
+  </character>
+  <character uvIndex="120" character="Ò" byte="210" type="alphabetical">
+    <regular x="7247" y="0" width="68"/>
+    <bold x="7727" y="0" width="68"/>
+    <italic x="7177" y="128" width="71"/>
+    <boldItalic x="7175" y="128" width="75"/>
+  </character>
+  <character uvIndex="121" character="Ó" byte="211" type="alphabetical">
+    <regular x="7323" y="0" width="68"/>
+    <bold x="7807" y="0" width="68"/>
+    <italic x="7305" y="128" width="80"/>
+    <boldItalic x="7303" y="128" width="84"/>
+  </character>
+  <character uvIndex="122" character="Ô" byte="212" type="alphabetical">
+    <regular x="7399" y="0" width="68"/>
+    <bold x="7887" y="0" width="68"/>
+    <italic x="7433" y="128" width="75"/>
+    <boldItalic x="7431" y="128" width="79"/>
+  </character>
+  <character uvIndex="123" character="Õ" byte="213" type="alphabetical">
+    <regular x="7475" y="0" width="68"/>
+    <bold x="7967" y="0" width="68"/>
+    <italic x="7561" y="128" width="79"/>
+    <boldItalic x="7559" y="128" width="83"/>
+  </character>
+  <character uvIndex="124" character="Ö" byte="214" type="alphabetical">
+    <regular x="7551" y="0" width="68"/>
+    <bold x="8047" y="0" width="68"/>
+    <italic x="7689" y="128" width="71"/>
+    <boldItalic x="7687" y="128" width="75"/>
+  </character>
+  <character uvIndex="125" character="Ù" byte="217" type="alphabetical">
+    <regular x="7627" y="0" width="66"/>
+    <bold x="8127" y="0" width="66"/>
+    <italic x="7822" y="128" width="68"/>
+    <boldItalic x="7820" y="128" width="72"/>
+  </character>
+  <character uvIndex="126" character="Ú" byte="218" type="alphabetical">
+    <regular x="7701" y="0" width="66"/>
+    <bold x="4" y="128" width="66"/>
+    <italic x="7950" y="128" width="72"/>
+    <boldItalic x="7948" y="128" width="76"/>
+  </character>
+  <character uvIndex="127" character="Û" byte="219" type="alphabetical">
+    <regular x="7775" y="0" width="66"/>
+    <bold x="82" y="128" width="66"/>
+    <italic x="8078" y="128" width="68"/>
+    <boldItalic x="8076" y="128" width="72"/>
+  </character>
+  <character uvIndex="128" character="Ü" byte="220" type="alphabetical">
+    <regular x="7849" y="0" width="66"/>
+    <bold x="160" y="128" width="66"/>
+    <italic x="14" y="256" width="68"/>
+    <boldItalic x="12" y="256" width="72"/>
+  </character>
+  <character uvIndex="129" character="Ý" byte="221" type="alphabetical">
+    <regular x="7923" y="0" width="63"/>
+    <bold x="238" y="128" width="63"/>
+    <italic x="152" y="256" width="63"/>
+    <boldItalic x="149" y="256" width="68"/>
+  </character>
+  <character uvIndex="130" character="ß" byte="223" type="alphabetical">
+    <regular x="7994" y="0" width="52"/>
+    <bold x="313" y="128" width="52"/>
+    <italic x="260" y="256" width="71"/>
+    <boldItalic x="260" y="256" width="73"/>
+  </character>
+  <character uvIndex="131" character="à" byte="224" type="alphabetical">
+    <regular x="8054" y="0" width="50"/>
+    <bold x="377" y="128" width="50"/>
+    <italic x="399" y="256" width="50"/>
+    <boldItalic x="397" y="256" width="54"/>
+  </character>
+  <character uvIndex="132" character="á" byte="225" type="alphabetical">
+    <regular x="8112" y="0" width="50"/>
+    <bold x="439" y="128" width="50"/>
+    <italic x="527" y="256" width="61"/>
+    <boldItalic x="525" y="256" width="66"/>
+  </character>
+  <character uvIndex="133" character="â" byte="226" type="alphabetical">
+    <regular x="4" y="128" width="50"/>
+    <bold x="501" y="128" width="50"/>
+    <italic x="655" y="256" width="60"/>
+    <boldItalic x="653" y="256" width="64"/>
+  </character>
+  <character uvIndex="134" character="ã" byte="227" type="alphabetical">
+    <regular x="62" y="128" width="52"/>
+    <bold x="563" y="128" width="52"/>
+    <italic x="783" y="256" width="65"/>
+    <boldItalic x="781" y="256" width="69"/>
+  </character>
+  <character uvIndex="135" character="ä" byte="228" type="alphabetical">
+    <regular x="122" y="128" width="50"/>
+    <bold x="627" y="128" width="50"/>
+    <italic x="911" y="256" width="57"/>
+    <boldItalic x="909" y="256" width="61"/>
+  </character>
+  <character uvIndex="136" character="å" byte="229" type="alphabetical">
+    <regular x="180" y="128" width="50"/>
+    <bold x="689" y="128" width="50"/>
+    <italic x="1039" y="256" width="56"/>
+    <boldItalic x="1037" y="256" width="60"/>
+  </character>
+  <character uvIndex="137" character="æ" byte="230" type="alphabetical">
+    <regular x="238" y="128" width="69"/>
+    <bold x="751" y="128" width="69"/>
+    <italic x="1155" y="256" width="71"/>
+    <boldItalic x="1153" y="256" width="75"/>
+  </character>
+  <character uvIndex="138" character="ç" byte="231" type="alphabetical">
+    <regular x="315" y="128" width="43"/>
+    <bold x="832" y="128" width="43"/>
+    <italic x="1289" y="256" width="52"/>
+    <boldItalic x="1286" y="256" width="57"/>
+  </character>
+  <character uvIndex="139" character="è" byte="232" type="alphabetical">
+    <regular x="366" y="128" width="44"/>
+    <bold x="887" y="128" width="44"/>
+    <italic x="1427" y="256" width="43"/>
+    <boldItalic x="1425" y="256" width="47"/>
+  </character>
+  <character uvIndex="140" character="é" byte="233" type="alphabetical">
+    <regular x="418" y="128" width="44"/>
+    <bold x="943" y="128" width="44"/>
+    <italic x="1555" y="256" width="54"/>
+    <boldItalic x="1553" y="256" width="58"/>
+  </character>
+  <character uvIndex="141" character="ê" byte="234" type="alphabetical">
+    <regular x="470" y="128" width="44"/>
+    <bold x="999" y="128" width="44"/>
+    <italic x="1683" y="256" width="53"/>
+    <boldItalic x="1681" y="256" width="57"/>
+  </character>
+  <character uvIndex="142" character="ë" byte="235" type="alphabetical">
+    <regular x="522" y="128" width="44"/>
+    <bold x="1055" y="128" width="44"/>
+    <italic x="1811" y="256" width="51"/>
+    <boldItalic x="1809" y="256" width="55"/>
+  </character>
+  <character uvIndex="143" character="ì" byte="236" type="alphabetical">
+    <regular x="574" y="128" width="27"/>
+    <bold x="1111" y="128" width="27"/>
+    <italic x="1948" y="256" width="32"/>
+    <boldItalic x="1946" y="256" width="36"/>
+  </character>
+  <character uvIndex="144" character="í" byte="237" type="alphabetical">
+    <regular x="609" y="128" width="37"/>
+    <bold x="1150" y="128" width="37"/>
+    <italic x="2076" y="256" width="50"/>
+    <boldItalic x="2074" y="256" width="55"/>
+  </character>
+  <character uvIndex="145" character="î" byte="238" type="alphabetical">
+    <regular x="654" y="128" width="34"/>
+    <bold x="1199" y="128" width="34"/>
+    <italic x="2204" y="256" width="42"/>
+    <boldItalic x="2202" y="256" width="46"/>
+  </character>
+  <character uvIndex="146" character="ï" byte="239" type="alphabetical">
+    <regular x="696" y="128" width="30"/>
+    <bold x="1245" y="128" width="30"/>
+    <italic x="2332" y="256" width="41"/>
+    <boldItalic x="2330" y="256" width="45"/>
+  </character>
+  <character uvIndex="147" character="ð" byte="240" type="alphabetical">
+    <regular x="734" y="128" width="43"/>
+    <bold x="1287" y="128" width="43"/>
+    <italic x="2451" y="256" width="50"/>
+    <boldItalic x="2449" y="256" width="55"/>
+  </character>
+  <character uvIndex="148" character="ñ" byte="241" type="alphabetical">
+    <regular x="785" y="128" width="56"/>
+    <bold x="1342" y="128" width="56"/>
+    <italic x="2571" y="256" width="64"/>
+    <boldItalic x="2569" y="256" width="69"/>
+  </character>
+  <character uvIndex="149" character="ò" byte="242" type="alphabetical">
+    <regular x="849" y="128" width="48"/>
+    <bold x="1410" y="128" width="48"/>
+    <italic x="2705" y="256" width="47"/>
+    <boldItalic x="2703" y="256" width="51"/>
+  </character>
+  <character uvIndex="150" character="ó" byte="243" type="alphabetical">
+    <regular x="905" y="128" width="48"/>
+    <bold x="1470" y="128" width="48"/>
+    <italic x="2833" y="256" width="61"/>
+    <boldItalic x="2831" y="256" width="65"/>
+  </character>
+  <character uvIndex="151" character="ô" byte="244" type="alphabetical">
+    <regular x="961" y="128" width="48"/>
+    <bold x="1530" y="128" width="48"/>
+    <italic x="2961" y="256" width="56"/>
+    <boldItalic x="2959" y="256" width="60"/>
+  </character>
+  <character uvIndex="152" character="õ" byte="245" type="alphabetical">
+    <regular x="1017" y="128" width="51"/>
+    <bold x="1590" y="128" width="51"/>
+    <italic x="3089" y="256" width="62"/>
+    <boldItalic x="3087" y="256" width="67"/>
+  </character>
+  <character uvIndex="153" character="ö" byte="246" type="alphabetical">
+    <regular x="1076" y="128" width="48"/>
+    <bold x="1653" y="128" width="48"/>
+    <italic x="3217" y="256" width="53"/>
+    <boldItalic x="3215" y="256" width="58"/>
+  </character>
+  <character uvIndex="154" character="÷" byte="247" type="special">
+    <regular x="1132" y="128" width="49"/>
+    <bold x="1713" y="128" width="49"/>
+    <italic x="3349" y="256" width="41"/>
+    <boldItalic x="3347" y="256" width="46"/>
+  </character>
+  <character uvIndex="155" character="ø" byte="248" type="alphabetical">
+    <regular x="1189" y="128" width="48"/>
+    <bold x="1774" y="128" width="48"/>
+    <italic x="3471" y="256" width="52"/>
+    <boldItalic x="3469" y="256" width="57"/>
+  </character>
+  <character uvIndex="156" character="ù" byte="249" type="alphabetical">
+    <regular x="1245" y="128" width="52"/>
+    <bold x="1834" y="128" width="52"/>
+    <italic x="3600" y="256" width="49"/>
+    <boldItalic x="3598" y="256" width="53"/>
+  </character>
+  <character uvIndex="157" character="ú" byte="250" type="alphabetical">
+    <regular x="1305" y="128" width="52"/>
+    <bold x="1898" y="128" width="52"/>
+    <italic x="3728" y="256" width="59"/>
+    <boldItalic x="3726" y="256" width="63"/>
+  </character>
+  <character uvIndex="158" character="û" byte="251" type="alphabetical">
+    <regular x="1365" y="128" width="52"/>
+    <bold x="1962" y="128" width="52"/>
+    <italic x="3856" y="256" width="55"/>
+    <boldItalic x="3854" y="256" width="59"/>
+  </character>
+  <character uvIndex="159" character="ü" byte="252" type="alphabetical">
+    <regular x="1425" y="128" width="52"/>
+    <bold x="2026" y="128" width="52"/>
+    <italic x="3984" y="256" width="52"/>
+    <boldItalic x="3982" y="256" width="56"/>
+  </character>
+  <character uvIndex="160" character="ý" byte="253" type="alphabetical">
+    <regular x="1485" y="128" width="50"/>
+    <bold x="2090" y="128" width="50"/>
+    <italic x="4101" y="256" width="73"/>
+    <boldItalic x="4099" y="256" width="77"/>
+  </character>
+  <character uvIndex="161" character="ÿ" byte="255" type="alphabetical">
+    <regular x="1543" y="128" width="50"/>
+    <bold x="2152" y="128" width="50"/>
+    <italic x="4229" y="256" width="64"/>
+    <boldItalic x="4227" y="256" width="69"/>
+  </character>
+  <character uvIndex="162" character="Ā" byte="256" type="alphabetical">
+    <regular x="1601" y="128" width="67"/>
+    <bold x="2214" y="128" width="67"/>
+    <italic x="4353" y="256" width="73"/>
+    <boldItalic x="4356" y="256" width="76"/>
+  </character>
+  <character uvIndex="163" character="ā" byte="257" type="alphabetical">
+    <regular x="1676" y="128" width="50"/>
+    <bold x="2293" y="128" width="50"/>
+    <italic x="4495" y="256" width="57"/>
+    <boldItalic x="4493" y="256" width="61"/>
+  </character>
+  <character uvIndex="164" character="Ă" byte="258" type="alphabetical">
+    <regular x="1734" y="128" width="67"/>
+    <bold x="2355" y="128" width="67"/>
+    <italic x="4609" y="256" width="78"/>
+    <boldItalic x="4612" y="256" width="82"/>
+  </character>
+  <character uvIndex="165" character="ă" byte="259" type="alphabetical">
+    <regular x="1809" y="128" width="50"/>
+    <bold x="2434" y="128" width="50"/>
+    <italic x="4751" y="256" width="62"/>
+    <boldItalic x="4749" y="256" width="66"/>
+  </character>
+</font>
