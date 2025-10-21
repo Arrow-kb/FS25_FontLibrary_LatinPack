@@ -1,1 +1,3 @@
-# FS25_FontLibrary_LatinPack
+# FontLibrary - LatinPack
+
+Latin alphabet font pack for https://github.com/Arrow-kb/FS25_FontLibrary
