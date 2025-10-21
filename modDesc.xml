@@ -1,0 +1,28 @@
+<modDesc descVersion="103">
+    <author>Arrow</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Font Library - Latin Pack</en>
+        <de>Schriftartenbibliothek - Latein-Paket</de>
+        <fr>Bibliothèque De Polices - Pack Latin</fr>
+    </title>
+    <description>
+        <en>
+        <![CDATA[ Latin alphabet fonts for FS25_FontLibrary ]]>
+        </en>
+        <de>
+        <![CDATA[ Lateinische Schriftarten für FS25_FontLibrary ]]>
+        </de>
+        <fr>
+        <![CDATA[ Polices de caractères latines pour FS25_FontLibrary ]]>
+        </fr>
+    </description>
+    <iconFilename>icon_FontLibrary_LatinPack.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="src/FontLoader.lua"/>
+    </extraSourceFiles>
+	<dependencies>
+		<dependency>FS25_FontLibrary</dependency>
+	</dependencies>
+</modDesc>
